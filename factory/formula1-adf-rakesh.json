@@ -1,0 +1,9 @@
+{
+	"name": "formula1-adf-rakesh",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6237a7ae-8b3b-4f56-ac9a-fbcbff5901f9",
+		"tenantId": "a1d955dc-78ee-450f-b463-d5515f0f8ba1"
+	}
+}
